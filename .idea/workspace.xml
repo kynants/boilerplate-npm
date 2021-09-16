@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ed440bb-ee86-45af-9a25-03033bdf8771" name="Changes" comment="Added my name as the author in package.json." />
+    <list default="true" id="5ed440bb-ee86-45af-9a25-03033bdf8771" name="Changes" comment="Moved author key under name key and added two files.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1631733389508</updated>
       <workItem from="1631733391592" duration="3846000" />
+      <workItem from="1631737353663" duration="768000" />
+      <workItem from="1631808087239" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="Added my name as the author in package.json.">
       <created>1631735309722</created>
@@ -45,7 +50,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631735309723</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added my name as the author in package.json.">
+      <created>1631737417836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631737417836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Moved author key under name key and added two files.">
+      <created>1631737654076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631737654076</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,10 +80,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added my name as the author in package.json." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added my name as the author in package.json." />
+    <MESSAGE value="Moved author key under name key and added two files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved author key under name key and added two files." />
   </component>
 </project>
