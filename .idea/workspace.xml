@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ed440bb-ee86-45af-9a25-03033bdf8771" name="Changes" comment="Moved author key under name key and added two files.">
+    <list default="true" id="5ed440bb-ee86-45af-9a25-03033bdf8771" name="Changes" comment="Added keywords to package.json.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -41,7 +41,7 @@
       <updated>1631733389508</updated>
       <workItem from="1631733391592" duration="3846000" />
       <workItem from="1631737353663" duration="768000" />
-      <workItem from="1631808087239" duration="79000" />
+      <workItem from="1631808087239" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="Added my name as the author in package.json.">
       <created>1631735309722</created>
@@ -64,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631737654076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added a description to the package.json file.">
+      <created>1631808205081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631808205081</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added keywords to package.json.">
+      <created>1631808412396</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631808412396</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +100,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added my name as the author in package.json." />
     <MESSAGE value="Moved author key under name key and added two files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved author key under name key and added two files." />
+    <MESSAGE value="Added a description to the package.json file." />
+    <MESSAGE value="Added keywords to package.json." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added keywords to package.json." />
   </component>
 </project>
