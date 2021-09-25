@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kynan Stevenson",
 	"description": "A tutorial project for Managing Packages with NPM",
-	"keywords": ["freecodecamp", "tutorial", "project"],
+	"keywords": [
+		"freecodecamp",
+		"tutorial",
+		"project"
+	],
 	"license": "MIT",
 	"version": "1.0",
 	"dependencies": {
