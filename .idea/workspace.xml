@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ed440bb-ee86-45af-9a25-03033bdf8771" name="Changes" comment="NPM prompted programmer to commit package-lock.json.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +80,7 @@
       <workItem from="1631808087239" duration="3100000" />
       <workItem from="1632429123404" duration="3162000" />
       <workItem from="1632574065412" duration="2657000" />
+      <workItem from="1632686250841" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="Added my name as the author in package.json.">
       <created>1631735309722</created>
@@ -165,6 +165,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="Added my name as the author in package.json." />
     <MESSAGE value="Moved author key under name key and added two files." />
     <MESSAGE value="Added a description to the package.json file." />
