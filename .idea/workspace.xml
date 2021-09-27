@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ed440bb-ee86-45af-9a25-03033bdf8771" name="Changes" comment="NPM prompted programmer to commit package-lock.json.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5ed440bb-ee86-45af-9a25-03033bdf8771" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       <workItem from="1631808087239" duration="3100000" />
       <workItem from="1632429123404" duration="3162000" />
       <workItem from="1632574065412" duration="2657000" />
-      <workItem from="1632686250841" duration="609000" />
+      <workItem from="1632686250841" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="Added my name as the author in package.json.">
       <created>1631735309722</created>
@@ -145,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632599402411</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Removed a package from my dependencies. Replaced the &quot;~&quot; with a &quot;^&quot;.">
+      <created>1632766617801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632766617801</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +180,7 @@
     <MESSAGE value="Changed the moment version." />
     <MESSAGE value="Used the tilde-character to always use the latest patch version of a dependency." />
     <MESSAGE value="NPM prompted programmer to commit package-lock.json." />
-    <option name="LAST_COMMIT_MESSAGE" value="NPM prompted programmer to commit package-lock.json." />
+    <MESSAGE value="Removed a package from my dependencies. Replaced the &quot;~&quot; with a &quot;^&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed a package from my dependencies. Replaced the &quot;~&quot; with a &quot;^&quot;." />
   </component>
 </project>
